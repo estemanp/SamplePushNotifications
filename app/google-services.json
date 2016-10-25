@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "649471122917",
+    "firebase_url": "https://unacnotifications.firebaseio.com",
+    "project_id": "unacnotifications",
+    "storage_bucket": "unacnotifications.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:649471122917:android:ea618111d4e464f3",
+        "android_client_info": {
+          "package_name": "com.programacion.movil.estemanp.samplepushnotifications"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "649471122917-u81g7gmblp5vl3avb51rhi6frvnup97s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.programacion.movil.estemanp.samplepushnotifications",
+            "certificate_hash": "8AB3F3F85C3A49878E82BEB40A2A7F538E8E66B4"
+          }
+        },
+        {
+          "client_id": "649471122917-g2cd23kqauqbdtk8u3ee18pmm2eh7i03.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYU4Uq2zEVLhDwtwmMaOU_EaIvt3kbOxw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "649471122917-g2cd23kqauqbdtk8u3ee18pmm2eh7i03.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

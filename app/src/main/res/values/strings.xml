@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SamplePushNotifications</string>
+    <string name="no_message_text">No ha recibido Notifications Push</string>
+</resources>
